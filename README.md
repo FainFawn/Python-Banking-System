@@ -10,7 +10,7 @@ The project is a simple command-line banking system that includes:
 - Activity logging using `.txt` files
 - Password change and account deletion options
 
-🔐 While this project is not polished and was built with basic knowledge, it reflects my early passion for technology and programming. Today, I continue to grow my skills in Python, Linux (Kali), and cybersecurity.
+🔐 While this project is not polished and was built with basic knowledge, it reflects my early passion for technology and programming. 
 
 ---
 
